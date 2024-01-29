@@ -1,0 +1,19 @@
+{
+  "name": "mock-technical-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Hari Prasetyo <hari-prestyo@ecampus.ut.ac.id>",
+  "repository": "https://github.com/prasetyo-harry/books.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
